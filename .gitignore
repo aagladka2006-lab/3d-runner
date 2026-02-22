@@ -26,3 +26,6 @@ Recordings/
 *.mdb
 *.opendb
 *.VC.db
+extensions.json
+launch.json
+settings.json
