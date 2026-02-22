@@ -838,8 +838,8 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: My first 3d progect
-  metroPackageVersion: 
+  metroPackageName: Myfirst3dprogect
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -847,7 +847,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: My first 3d progect
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: My first 3d progect
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
